@@ -1,0 +1,22 @@
+
+*body {
+    background-color: orange;
+}
+
+.image {
+    display: inline-flex;
+    margin-bottom: 5px;
+    margin-left: -15px;
+    width: 100px;
+    height: 150px;
+    border-radius: 30%;
+    border: 4px solid orange;
+    background-image: url("IMG-20191018-WA0030.jpg");
+    background-position: center;
+    background-size: 100%;
+}
+
+.fullname {
+    font-size: 16;
+    font-weight: bold;
+}
